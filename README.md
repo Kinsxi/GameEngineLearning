@@ -1,2 +1,2 @@
 # GameEngineLearning
-learning about game engine bulding.
+学习自TheChero.
